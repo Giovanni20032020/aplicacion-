@@ -1,0 +1,18 @@
+{
+  "name": "relevamientovisual",
+  "integrations": {
+    "capacitor": {
+        "plugins": {
+          "SplashScreen": {
+              "launchAutoHide": false,
+              "androidScaleType": "CENTER_CROP",
+              "splashFullScreen": true,
+              "splashImmersive": false,
+              "backgroundColor": "#ffffff"
+          }
+      }
+    }
+  },
+  "type": "angular"
+  
+}

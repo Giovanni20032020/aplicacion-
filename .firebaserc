@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "app-2023-4ae67": {
+      "hosting": {
+        "app": [
+          "app-2023-4ae67"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "app-2023-4ae67"
+  }
+}
